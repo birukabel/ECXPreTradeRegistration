@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/mTop.Master" AutoEventWireup="true" CodeBehind="mMenu.master.cs" Inherits="ECX.PreTradeRegistration.UI.mMenu" %>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <table width="100%">
+        <tr>
+            <td align="left" valign="top" style="width: 80%; font-size: small;">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+            
+        </tr>
+    </table>
+</asp:Content>
+

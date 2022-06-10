@@ -1,0 +1,9 @@
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BLL\bin\Release\ECX.PreTradeRegistration.BLL.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BLL\bin\Release\ECX.PreTradeRegistration.BLL.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BLL\bin\Release\ECX.PreTradeRegistration.BE.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BLL\bin\Release\ECX.PreTradeRegistration.DAL.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BLL\bin\Release\ECX.PreTradeRegistration.BE.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BLL\bin\Release\ECX.PreTradeRegistration.DAL.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BLL\obj\Release\ECX.PreTradeRegistration.BLL.csprojResolveAssemblyReference.cache
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BLL\obj\Release\ECX.PreTradeRegistration.BLL.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BLL\obj\Release\ECX.PreTradeRegistration.BLL.pdb

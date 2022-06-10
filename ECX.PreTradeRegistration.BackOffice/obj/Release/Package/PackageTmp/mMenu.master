@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/mTop.Master" AutoEventWireup="true" CodeBehind="mMenu.master.cs" Inherits="ECX.PreTradeRegistration.BackOffice.mMenu" %>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <table width="100%">
+        <tr>
+            <td valign="top" style="width: 20%; border-right: solid 1px black; height: 750px;">
+                <table width="100%" style="font-size: small;">                    
+                    <tr>
+                        <td align="center" style="background-color: #adba83; font-size: large;">Reports
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="left" style="background-image: url('<%= MenuBackPath %>'); background-repeat: repeat-y;">
+                            <asp:LinkButton ID="lnkReport" runat="server" CausesValidation="false" PostBackUrl="~/Home.aspx">Registered vs Traded Report</asp:LinkButton><br />
+                            <asp:LinkButton ID="LinkButton1" runat="server" CausesValidation="false" PostBackUrl="~/SellOrderReport.aspx">Sell Order Report</asp:LinkButton><br />
+                           <asp:LinkButton ID="lnkSellOrderHistory" runat="server" CausesValidation="false" PostBackUrl="~/SellOrderHistory.aspx">Sell Order History</asp:LinkButton><br />
+                          
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td align="left" valign="top" style="width: 80%; font-size: small;">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+</asp:Content>

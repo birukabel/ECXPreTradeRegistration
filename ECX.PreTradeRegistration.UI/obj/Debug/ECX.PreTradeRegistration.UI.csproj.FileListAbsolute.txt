@@ -1,0 +1,86 @@
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll.config
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.csprojResolveAssemblyReference.cache
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\AjaxControlToolkit.dll
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll.config
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.pdb
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\AjaxControlToolkit.dll
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.dll
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.dll
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.dll
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.pdb
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.pdb
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.pdb
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.dll
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.pdb
+E:\Biruk\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.csprojResolveAssemblyReference.cache
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll.config
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.pdb
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.dll
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.dll
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.dll
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.pdb
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.pdb
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.pdb
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.csprojResolveAssemblyReference.cache
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.dll
+D:\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.pdb
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll.config
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.pdb
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.dll
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.dll
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.dll
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.pdb
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.pdb
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.pdb
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.dll
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.pdb
+D:\Le Jossy\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.csprojResolveAssemblyReference.cache
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll.config
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.pdb
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.dll
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.dll
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.dll
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.pdb
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.pdb
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.pdb
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.csprojResolveAssemblyReference.cache
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.dll
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.pdb
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll.config
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.pdb
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.dll
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.dll
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.dll
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.pdb
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.pdb
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.pdb
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.csprojResolveAssemblyReference.cache
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.dll
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.pdb
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll.config
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.pdb
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.dll
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.dll
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.dll
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.pdb
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.pdb
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.pdb
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.csprojResolveAssemblyReference.cache
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.dll
+D:\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\obj\Debug\ECX.PreTradeRegistration.UI.pdb

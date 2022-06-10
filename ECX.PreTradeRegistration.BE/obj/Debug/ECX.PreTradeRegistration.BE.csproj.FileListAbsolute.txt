@@ -1,0 +1,14 @@
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BE\bin\Debug\ECX.PreTradeRegistration.BE.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BE\bin\Debug\ECX.PreTradeRegistration.BE.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BE\obj\Debug\ECX.PreTradeRegistration.BE.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BE\obj\Debug\ECX.PreTradeRegistration.BE.pdb
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BE\bin\Debug\ECX.PreTradeRegistration.BE.dll
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BE\bin\Debug\ECX.PreTradeRegistration.BE.pdb
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BE\obj\Debug\ECX.PreTradeRegistration.BE.dll
+D:\test\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BE\obj\Debug\ECX.PreTradeRegistration.BE.pdb
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BE\bin\Debug\ECX.PreTradeRegistration.BE.dll
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BE\bin\Debug\ECX.PreTradeRegistration.BE.pdb
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BE\obj\Debug\ECX.PreTradeRegistration.BE.csprojResolveAssemblyReference.cache
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BE\obj\Debug\ECX.PreTradeRegistration.BE.dll
+E:\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BE\obj\Debug\ECX.PreTradeRegistration.BE.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BE\obj\Debug\ECX.PreTradeRegistration.BE.csprojResolveAssemblyReference.cache

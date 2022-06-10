@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BFC1D344-2537-43ED-9BFF-DFE15C2C5036}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ECX.PreTradeRegistration.BackOffice</RootNamespace>
+    <AssemblyName>ECX.PreTradeRegistration.BackOffice</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\..\..\TG\ECXPreTradeRegistrationUIChanges\ECX.PreTradeRegistration.BackOffice\bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ECX.PreTradeRegistration.BE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ECX.PreTradeRegistration.BE\bin\Debug\ECX.PreTradeRegistration.BE.dll</HintPath>
+    </Reference>
+    <Reference Include="ECX.PreTradeRegistration.BLL, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ECX.PreTradeRegistration.BLL\bin\Debug\ECX.PreTradeRegistration.BLL.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\datatables.min.css" />
+    <Content Include="css\simple-sidebar.css" />
+    <Content Include="css\site-main.css" />
+    <Content Include="ErrorPage.aspx" />
+    <Content Include="fontawesome\attribution.js" />
+    <Content Include="fontawesome\css\all.css" />
+    <Content Include="fontawesome\css\all.min.css" />
+    <Content Include="fontawesome\css\brands.css" />
+    <Content Include="fontawesome\css\brands.min.css" />
+    <Content Include="fontawesome\css\fa-brands-400.svg" />
+    <Content Include="fontawesome\css\fa-regular-400.svg" />
+    <Content Include="fontawesome\css\fa-solid-900.svg" />
+    <Content Include="fontawesome\css\fontawesome.css" />
+    <Content Include="fontawesome\css\fontawesome.min.css" />
+    <Content Include="fontawesome\css\regular.css" />
+    <Content Include="fontawesome\css\regular.min.css" />
+    <Content Include="fontawesome\css\solid.css" />
+    <Content Include="fontawesome\css\solid.min.css" />
+    <Content Include="fontawesome\css\svg-with-js.css" />
+    <Content Include="fontawesome\css\svg-with-js.min.css" />
+    <Content Include="fontawesome\css\v4-shims.css" />
+    <Content Include="fontawesome\css\v4-shims.min.css" />
+    <Content Include="fontawesome\js\all.js" />
+    <Content Include="fontawesome\js\all.min.js" />
+    <Content Include="fontawesome\js\brands.js" />
+    <Content Include="fontawesome\js\brands.min.js" />
+    <Content Include="fontawesome\js\conflict-detection.js" />
+    <Content Include="fontawesome\js\conflict-detection.min.js" />
+    <Content Include="fontawesome\js\fontawesome.js" />
+    <Content Include="fontawesome\js\fontawesome.min.js" />
+    <Content Include="fontawesome\js\regular.js" />
+    <Content Include="fontawesome\js\regular.min.js" />
+    <Content Include="fontawesome\js\solid.js" />
+    <Content Include="fontawesome\js\solid.min.js" />
+    <Content Include="fontawesome\js\v4-shims.js" />
+    <Content Include="fontawesome\js\v4-shims.min.js" />
+    <Content Include="fontawesome\LICENSE.txt" />
+    <Content Include="fontawesome\webfonts\fa-brands-400.svg" />
+    <Content Include="fontawesome\webfonts\fa-regular-400.svg" />
+    <Content Include="fontawesome\webfonts\fa-solid-900.svg" />
+    <Content Include="Images\log.png" />
+    <Content Include="js\bootstrap.bundle.min.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\datatables.min.js" />
+    <Content Include="js\dataTables.responsive.min.js" />
+    <Content Include="js\jquery-3.5.1.min.js" />
+    <Content Include="js\jquery.dataTables.min.js" />
+    <Content Include="mMenu.master" />
+    <Content Include="mTop.Master" />
+    <Content Include="css\bootstrap.min.css.map" />
+    <Content Include="js\bootstrap.min.js.map" />
+    <Content Include="fontawesome\css\fa-brands-400.eot" />
+    <Content Include="fontawesome\css\fa-brands-400.ttf" />
+    <Content Include="fontawesome\css\fa-brands-400.woff" />
+    <Content Include="fontawesome\css\fa-brands-400.woff2" />
+    <Content Include="fontawesome\css\fa-regular-400.eot" />
+    <Content Include="fontawesome\css\fa-regular-400.ttf" />
+    <Content Include="fontawesome\css\fa-regular-400.woff" />
+    <Content Include="fontawesome\css\fa-regular-400.woff2" />
+    <Content Include="fontawesome\css\fa-solid-900.eot" />
+    <Content Include="fontawesome\css\fa-solid-900.ttf" />
+    <Content Include="fontawesome\css\fa-solid-900.woff" />
+    <Content Include="fontawesome\css\fa-solid-900.woff2" />
+    <Content Include="fontawesome\webfonts\fa-brands-400.eot" />
+    <Content Include="fontawesome\webfonts\fa-brands-400.ttf" />
+    <Content Include="fontawesome\webfonts\fa-brands-400.woff" />
+    <Content Include="fontawesome\webfonts\fa-brands-400.woff2" />
+    <Content Include="fontawesome\webfonts\fa-regular-400.eot" />
+    <Content Include="fontawesome\webfonts\fa-regular-400.ttf" />
+    <Content Include="fontawesome\webfonts\fa-regular-400.woff" />
+    <Content Include="fontawesome\webfonts\fa-regular-400.woff2" />
+    <Content Include="fontawesome\webfonts\fa-solid-900.eot" />
+    <Content Include="fontawesome\webfonts\fa-solid-900.ttf" />
+    <Content Include="fontawesome\webfonts\fa-solid-900.woff" />
+    <Content Include="fontawesome\webfonts\fa-solid-900.woff2" />
+    <Content Include="js\bootstrap.bundle.min.js.map" />
+    <None Include="Properties\PublishProfiles\sellBKUI.pubxml" />
+    <None Include="Web References\ECXSecurityAccess\ECXSecurityAccess.wsdl" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Home.aspx" />
+    <Content Include="Images\logo.gif" />
+    <Content Include="Images\right.JPG" />
+    <Content Include="Images\TopBack.gif" />
+    <Content Include="Images\wrong.JPG" />
+    <Content Include="Images\yellowbg1.gif" />
+    <Content Include="Login.aspx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="SellOrderHistory.aspx" />
+    <Content Include="SellOrderReport.aspx" />
+    <Content Include="Web References\ECXSecurityAccess\AuthenticationStatus.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+    <Content Include="Web References\ECXSecurityAccess\CApplication.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+    <None Include="Web References\ECXSecurityAccess\ECXSecurityAccess.disco" />
+    <Content Include="Web.config" />
+    <Content Include="Web References\ECXSecurityAccess\OUser.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </Content>
+    <Content Include="Web References\ECXSecurityAccess\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ErrorPage.aspx.cs">
+      <DependentUpon>ErrorPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ErrorPage.aspx.designer.cs">
+      <DependentUpon>ErrorPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mMenu.master.cs">
+      <DependentUpon>mMenu.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mMenu.master.designer.cs">
+      <DependentUpon>mMenu.master</DependentUpon>
+    </Compile>
+    <Compile Include="mTop.Master.cs">
+      <DependentUpon>mTop.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mTop.Master.designer.cs">
+      <DependentUpon>mTop.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SellOrderHistory.aspx.cs">
+      <DependentUpon>SellOrderHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SellOrderHistory.aspx.designer.cs">
+      <DependentUpon>SellOrderHistory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SellOrderReport.aspx.cs">
+      <DependentUpon>SellOrderReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SellOrderReport.aspx.designer.cs">
+      <DependentUpon>SellOrderReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\ECXSecurityAccess\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://10.1.5.20:5000/ECXSecurity/ECXSecurityAccess.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ECXSecurityAccess\</RelPath>
+      <UpdateFromURL>http://10.1.5.20:5000/ECXSecurity/ECXSecurityAccess.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>ECX_PreTradeRegistration_BackOffice_ECXSecurityAccess_ECXSecurityAccess</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ECX.PreTradeRegistration.DAL\ECX.PreTradeRegistration.DAL.csproj">
+      <Project>{33b53ec6-39b2-4a95-bf2f-c33120d9ccda}</Project>
+      <Name>ECX.PreTradeRegistration.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2951</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:2951/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,13 @@
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll.config
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.UI.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\AjaxControlToolkit.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BE.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.BLL.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\bin\ECX.PreTradeRegistration.DAL.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\obj\Release\ECX.PreTradeRegistration.UI.csprojResolveAssemblyReference.cache
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\obj\Release\ECX.PreTradeRegistration.UI.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.UI\obj\Release\ECX.PreTradeRegistration.UI.pdb

@@ -1,0 +1,15 @@
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.BackOffice.dll.config
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.BackOffice.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.BackOffice.XmlSerializers.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.BackOffice.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\AjaxControlToolkit.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.BE.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.BLL.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.DAL.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.DAL.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.BE.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\bin\ECX.PreTradeRegistration.BLL.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\obj\Release\ECX.PreTradeRegistration.BackOffice.csprojResolveAssemblyReference.cache
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\obj\Release\ECX.PreTradeRegistration.BackOffice.dll
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\obj\Release\ECX.PreTradeRegistration.BackOffice.pdb
+E:\Biruk\ECXPreTradeRegistration\ECX.PreTradeRegistration.BackOffice\obj\Release\ECX.PreTradeRegistration.BackOffice.XmlSerializers.dll
